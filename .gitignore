@@ -1,0 +1,6 @@
+# Secrets / script by-products.
+id_rsa
+id_rsa.pub
+secrets.sh
+linodes.json
+*.ovpn
